@@ -28,6 +28,8 @@ Este documento define los átomos visuales del **Sistema de Predicción Longitud
 
 Warning Ejemplo
 
+---
+
 
 ##  Tipografía y Escala (Typography Tokens)
 
@@ -52,6 +54,7 @@ aqui podemos visualizar todas las fuentes
   <img width="116" height="39" alt="image" src="https://github.com/user-attachments/assets/69e210a9-132c-4f6f-96ca-176bfe372931" />
 <img width="173" height="267" alt="image" src="https://github.com/user-attachments/assets/dd00cda4-f4c3-4070-a78e-60fc94b80027" />
 
+---
 
 # Patterm library 
 
