@@ -13,6 +13,7 @@ Este documento define los átomos visuales del **Sistema de Predicción Longitud
 | `title-color` | `#00747C` | ![#00747C](https://via.placeholder.com/15/00747C?text=+) | Títulos de alto contraste. |
 | `background-color`| `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF?text=+) | Superficie base de la interfaz. |
 | `text-color` | `#000000` | ![#000000](https://via.placeholder.com/15/000000?text=+) | Cuerpo de texto y lectura. |
+
 <img width="183" height="318" alt="image" src="https://github.com/user-attachments/assets/e875a78a-7dab-45b4-bf68-dccf48fd4612" />
 <img width="185" height="321" alt="image" src="https://github.com/user-attachments/assets/2dc6167c-40da-4c7d-848b-c2a41541efda" />
 
@@ -22,6 +23,7 @@ Este documento define los átomos visuales del **Sistema de Predicción Longitud
 * **Warning:** `#448FB4` | Alertas informativas o preventivas.
 *  **Error:** `#E53935` | Notificaciones de riesgo o errores críticos.
 <img width="182" height="315" alt="image" src="https://github.com/user-attachments/assets/0fe99042-176f-4ec9-9ae7-dfb039451683" />
+
 Warning Ejemplo
 ---
 
@@ -43,6 +45,7 @@ aqui podemos visualizar todas las fuentes
 ### Bordes (Border Radius)
 * `border-radius-small`: **4px** (Componentes pequeños, inputs).
 * `border-radius-medium`: **8px** (Tarjetas, modales y botones).
+  
   <img width="116" height="39" alt="image" src="https://github.com/user-attachments/assets/69e210a9-132c-4f6f-96ca-176bfe372931" />
 <img width="173" height="267" alt="image" src="https://github.com/user-attachments/assets/dd00cda4-f4c3-4070-a78e-60fc94b80027" />
 
