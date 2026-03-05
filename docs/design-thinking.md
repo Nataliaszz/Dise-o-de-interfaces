@@ -136,6 +136,7 @@ Para la construcción del **Sistema de Predicción Visual**, se han analizado tr
 **Enfoque:** Consistencia y claridad en entornos de escritorio.
 * **Aplicación en el proyecto:** Ayuda a estructurar interfaces nativas y consistentes que se sientan familiares para los médicos que utilizan Windows.
 * **Beneficio:** Aporta una capa de **profesionalismo y limpieza** visual, eliminando distracciones y centrando la atención en el diagnóstico visual.
+
 esta se puede visualizar durante todo el diseño del prototipo
 ---
 
