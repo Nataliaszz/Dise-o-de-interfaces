@@ -36,6 +36,7 @@ Warning Ejemplo
 | `font-size-medium`| **Roboto** | `18px` | Texto de lectura (Body). |
 | `size-small` | **Roboto** | `14px` | Notas al pie y captions. |
 <img width="186" height="310" alt="image" src="https://github.com/user-attachments/assets/6b09ebf2-c2d1-4f96-a9f5-3bcf116e01e5" />
+
 aqui podemos visualizar todas las fuentes
 
 ---
