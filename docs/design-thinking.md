@@ -23,7 +23,6 @@ Este documento define los átomos visuales del **Sistema de Predicción Longitud
 * **Warning:** `#448FB4` | Alertas informativas o preventivas.
 *  **Error:** `#E53935` | Notificaciones de riesgo o errores críticos.
 <img width="182" height="315" alt="image" src="https://github.com/user-attachments/assets/0fe99042-176f-4ec9-9ae7-dfb039451683" />
-
 Warning Ejemplo
 ---
 
