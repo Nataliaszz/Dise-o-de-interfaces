@@ -106,4 +106,37 @@ Diseñadas para mostrar la información del paciente de forma rápida y clara.
 <img width="203" height="87" alt="image" src="https://github.com/user-attachments/assets/28a6b86e-4487-41a1-96df-7e8568ba779f" />
 
 ---
+#  Sistemas de Diseño
+
+Para la construcción del **Sistema de Predicción Visual**, se han analizado tres de los frameworks de diseño más robustos de la industria, extrayendo las mejores prácticas para la gestión de nuestros datos clínicos.
+
+---
+
+###  Carbon Design System 
+**Enfoque:** Análisis de grandes volúmenes de datos.
+* **Aplicación en el proyecto:** Ideal para la organización de **historiales clínicos complejos** y la visualización de tablas de pacientes con múltiples variables. 
+* **Beneficio:** Permite que las gráficas médicas de predicción se muestren de forma clara y funcional dentro del dashboard principal.
+
+<img width="187" height="319" alt="image" src="https://github.com/user-attachments/assets/7addddcc-56b0-4b01-99ae-c80e6d52ec30" />
+
+
+---
+
+###  Ant Design 
+**Enfoque:** Interfaces administrativas y eficiencia.
+* **Aplicación en el proyecto:** Utilizado como referencia para el **dashboard administrativo** del centro optométrico.
+* **Beneficio:** Facilita la creación de widgets de estadísticas y gráficas de evolución visual (longitudinal), permitiendo que el especialista tome decisiones rápidas basadas en datos.
+
+<img width="188" height="318" alt="image" src="https://github.com/user-attachments/assets/46878048-733b-410c-bf30-4894a8717405" />
+
+
+---
+
+###  Fluent Design System 
+**Enfoque:** Consistencia y claridad en entornos de escritorio.
+* **Aplicación en el proyecto:** Ayuda a estructurar interfaces nativas y consistentes que se sientan familiares para los médicos que utilizan Windows.
+* **Beneficio:** Aporta una capa de **profesionalismo y limpieza** visual, eliminando distracciones y centrando la atención en el diagnóstico visual.
+esta se puede visualizar durante todo el diseño del prototipo
+---
+
 
