@@ -17,6 +17,8 @@ Este documento define los átomos visuales del **Sistema de Predicción Longitud
 <img width="183" height="318" alt="image" src="https://github.com/user-attachments/assets/e875a78a-7dab-45b4-bf68-dccf48fd4612" />
 <img width="185" height="321" alt="image" src="https://github.com/user-attachments/assets/2dc6167c-40da-4c7d-848b-c2a41541efda" />
 
+---
+
 
 ###  Estados del Sistema
 *  **Success:** `#4CAF50` | Predicciones positivas o procesos completados.
