@@ -1,14 +1,10 @@
-# 🎨 UI KIT
+# UI KIT
 
-Este documento define los elementos visuales del sistema, asegurando consistencia y reutilización en la interfaz.
-
+Este documento define los elementos visuales del sistema.
 ---
 
-## 🔤 1. TIPOGRAFÍA
+## 1. TIPOGRAFÍA
 
-Escoge 1 o 2 fuentes principales.
-
-**Fuentes seleccionadas:**
 - Fuente principal: `________`
 - Fuente secundaria: `________`
 
@@ -22,11 +18,9 @@ Escoge 1 o 2 fuentes principales.
 - **Cita:** `__px` – ______  
 - **Botón:** `__px` – ______  
 
-💡 *Nota: incluir muestra visual de cada estilo.*
-
 ---
 
-## 🎯 2. ICONOS
+## 2. ICONOS
 
 **Estilo de iconos:** `________` (Material / Outline / Filled / etc.)
 
@@ -39,7 +33,7 @@ Escoge 1 o 2 fuentes principales.
 
 ---
 
-## 🌈 3. COLORES
+## 3. COLORES
 
 ### Paleta principal
 
@@ -47,13 +41,11 @@ Escoge 1 o 2 fuentes principales.
 - **Secundario:** `#______`  
 - **Acento:** `#______`  
 
-💡 *Mostrar visualmente los colores (cuadros + HEX).*
-
 ---
 
-## 📱 4. BARRAS (NAVEGACIÓN)
+## 4. BARRAS (NAVEGACIÓN)
 
-### 🔝 Barra superior (Header)
+### Barra superior (Header)
 
 **Elementos:**
 - Título  
@@ -61,7 +53,7 @@ Escoge 1 o 2 fuentes principales.
 
 ---
 
-### 🔻 Barra inferior (Bottom Navigation)
+### Barra inferior (Bottom Navigation)
 
 **Secciones:**
 - Inicio  
@@ -69,13 +61,11 @@ Escoge 1 o 2 fuentes principales.
 - Favoritos  
 - Perfil  
 
-💡 *Debe representarse visualmente.*
-
 ---
 
-## 🧩 5. TARJETAS (CARDS)
+## 5. TARJETAS 
 
-### 📌 Tarjeta grande
+### Tarjeta grande
 
 **Elementos:**
 - Imagen  
@@ -90,11 +80,9 @@ Escoge 1 o 2 fuentes principales.
 - Imagen pequeña  
 - Texto corto  
 
-💡 *Uso: productos, posts, noticias, etc.*
-
 ---
 
-## 🔘 6. BOTONES Y CONTROLES
+## 6. BOTONES Y CONTROLES
 
 ### Botones
 
@@ -114,7 +102,7 @@ Escoge 1 o 2 fuentes principales.
 
 ---
 
-## 📝 7. FORMULARIOS
+## 7. FORMULARIOS
 
 **Elementos:**
 - Input de texto  
@@ -130,15 +118,3 @@ Escoge 1 o 2 fuentes principales.
 - Seleccionado / Activo  
 - Error  
 
----
-
-## 🖼️ 8. ILUSTRACIONES (Opcional)
-
-- Iconos grandes  
-- Ilustraciones tipo onboarding  
-
----
-
-## 🎯 ESTRUCTURA FINAL
-
-El UI Kit debe presentarse en una sola pantalla organizada:
