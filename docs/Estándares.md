@@ -1,143 +1,144 @@
-# Design Tokens
+# 🎨 UI KIT
 
-Este documento define los átomos visuales del **Sistema de Predicción Longitudinal de Problemas Visuales**, garantizando consistencia y escalabilidad en el diseño.
-
----
-
-## Paleta de Colores (Color Tokens)
-
-| Token Name | Hex | Color Preview | Uso Principal |
-| :--- | :--- | :--- | :--- |
-| `primary-color` | `#9FEAE4` | ![#9FEAE4](https://via.placeholder.com/15/9FEAE4?text=+) | Acciones principales y marca. |
-| `secondary-color` | `#C0FBFF` | ![#C0FBFF](https://via.placeholder.com/15/C0FBFF?text=+) | Fondos suaves y estados hover. |
-| `title-color` | `#00747C` | ![#00747C](https://via.placeholder.com/15/00747C?text=+) | Títulos de alto contraste. |
-| `background-color`| `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF?text=+) | Superficie base de la interfaz. |
-| `text-color` | `#000000` | ![#000000](https://via.placeholder.com/15/000000?text=+) | Cuerpo de texto y lectura. |
-
-<img width="183" height="318" alt="image" src="https://github.com/user-attachments/assets/e875a78a-7dab-45b4-bf68-dccf48fd4612" />
-<img width="185" height="321" alt="image" src="https://github.com/user-attachments/assets/2dc6167c-40da-4c7d-848b-c2a41541efda" />
+Este documento define los elementos visuales del sistema, asegurando consistencia y reutilización en la interfaz.
 
 ---
 
+## 🔤 1. TIPOGRAFÍA
 
-###  Estados del Sistema
-*  **Success:** `#4CAF50` | Predicciones positivas o procesos completados.
-* **Warning:** `#448FB4` | Alertas informativas o preventivas.
-*  **Error:** `#E53935` | Notificaciones de riesgo o errores críticos.
-<img width="182" height="315" alt="image" src="https://github.com/user-attachments/assets/0fe99042-176f-4ec9-9ae7-dfb039451683" />
+Escoge 1 o 2 fuentes principales.
 
-Warning Ejemplo
+**Fuentes seleccionadas:**
+- Fuente principal: `________`
+- Fuente secundaria: `________`
 
----
+### Jerarquía tipográfica
 
+- **Título 1 (H1):** `__px` – ______  
+- **Título 2 (H2):** `__px` – ______  
+- **Subtítulo:** `__px` – ______  
+- **Párrafo grande:** `__px` – ______  
+- **Párrafo pequeño:** `__px` – ______  
+- **Cita:** `__px` – ______  
+- **Botón:** `__px` – ______  
 
-##  Tipografía y Escala (Typography Tokens)
-
-| Token | Fuente | Tamaño | Aplicación |
-| :--- | :--- | :--- | :--- |
-| `font-size-title` | **Lato** | `32px` | Títulos de página y secciones. |
-| `font-size-large` | **Roboto** | `24px` | Subtítulos y resaltados. |
-| `font-size-medium`| **Roboto** | `18px` | Texto de lectura (Body). |
-| `size-small` | **Roboto** | `14px` | Notas al pie y captions. |
-<img width="186" height="310" alt="image" src="https://github.com/user-attachments/assets/6b09ebf2-c2d1-4f96-a9f5-3bcf116e01e5" />
-
-aqui podemos visualizar todas las fuentes
+💡 *Nota: incluir muestra visual de cada estilo.*
 
 ---
 
-## Estructura y UI (Layout Tokens)
+## 🎯 2. ICONOS
 
-### Bordes (Border Radius)
-* `border-radius-small`: **4px** (Componentes pequeños, inputs).
-* `border-radius-medium`: **8px** (Tarjetas, modales y botones).
-  
-  <img width="116" height="39" alt="image" src="https://github.com/user-attachments/assets/69e210a9-132c-4f6f-96ca-176bfe372931" />
-<img width="173" height="267" alt="image" src="https://github.com/user-attachments/assets/dd00cda4-f4c3-4070-a78e-60fc94b80027" />
+**Estilo de iconos:** `________` (Material / Outline / Filled / etc.)
 
----
+- **Icono activo:** color `________`  
+- **Icono inactivo:** color `________`  
 
-# Patterm library 
-
-Coleccion de compones reutilizables 
-
-## 1. Botones (Buttons)
-
-| Componente | Especificaciones Visuales | Uso y Comportamiento |
-| :--- | :--- | :--- |
-| **Botón Entrar** | **Fondo:** `#C0FBFF` (Secondary)<br>**Texto:** Negro (`#000000`) <br>**Bordes:** `border-radius-medium` (8px) | Utilizado para confirmar citas y acciones principales tras completar formularios. |
-
-<img width="109" height="38" alt="image" src="https://github.com/user-attachments/assets/a570cf19-5e2e-4507-b33b-af22261bbfba" />
+**Ejemplos:**
+- Home activo  
+- Home inactivo  
 
 ---
 
-## 2. Campos de Formulario (Inputs & Login)
+## 🌈 3. COLORES
 
-**Nombre del Módulo:** Inicio de Sesión
-Este componente gestiona el acceso seguro de los especialistas al sistema.
+### Paleta principal
 
-* **Campos:** Documento y Contraseña.
-    * **Fondo de Input:** `#FFFFFF` (Blanco).
-    * **Color de Títulos:** `#00747C` (Title Color).
-* **Contenedor (Panel):** Fondo `#9FEAE4` (Primary Color).
-* **Acciones:** * Botón "Entrar".
-    * Enlace: *¿Olvidaste tu contraseña?*
-* **Feedback de Error:** * **Mensaje:** Color `#448FB4` con bordes redondeados para notificaciones del sistema.
+- **Primario:** `#______`  
+- **Secundario:** `#______`  
+- **Acento:** `#______`  
 
-<img width="249" height="430" alt="image" src="https://github.com/user-attachments/assets/7037d9d4-bc07-4003-972f-9d5aa424e290" />
-
+💡 *Mostrar visualmente los colores (cuadros + HEX).*
 
 ---
 
-## 3. Tarjetas 
+## 📱 4. BARRAS (NAVEGACIÓN)
 
-**Nombre:** Citas Programadas
-Diseñadas para mostrar la información del paciente de forma rápida y clara.
+### 🔝 Barra superior (Header)
 
-| Elemento | Detalle |
-| :--- | :--- |
-| **Fondo** | `#C0FBFF` |
-| **Cabecera** | Título con Fecha y Hora del encuentro. |
-| **Contenido** | Nombre del Paciente y Cédula (ID). |
-| **Acción** | Botón **"Historial"** (Fondo blanco, texto negro). |
-| **Estilo** | Bordes redondeados (`8px`) para suavidad visual. |
-
-**Uso:** Visualización rápida de la agenda diaria y acceso al registro histórico del paciente.
-
-<img width="203" height="87" alt="image" src="https://github.com/user-attachments/assets/28a6b86e-4487-41a1-96df-7e8568ba779f" />
-
----
-#  Sistemas de Diseño
-
-Para la construcción del **Sistema de Predicción Visual**, se han analizado tres de los frameworks de diseño más robustos de la industria, extrayendo las mejores prácticas para la gestión de nuestros datos clínicos.
+**Elementos:**
+- Título  
+- Icono (menú / perfil / acciones)
 
 ---
 
-###  Carbon Design System 
-**Enfoque:** Análisis de grandes volúmenes de datos.
-* **Aplicación en el proyecto:** Ideal para la organización de **historiales clínicos complejos** y la visualización de tablas de pacientes con múltiples variables. 
-* **Beneficio:** Permite que las gráficas médicas de predicción se muestren de forma clara y funcional dentro del dashboard principal.
+### 🔻 Barra inferior (Bottom Navigation)
 
-<img width="187" height="319" alt="image" src="https://github.com/user-attachments/assets/7addddcc-56b0-4b01-99ae-c80e6d52ec30" />
+**Secciones:**
+- Inicio  
+- Buscar  
+- Favoritos  
+- Perfil  
 
-
----
-
-###  Ant Design 
-**Enfoque:** Interfaces administrativas y eficiencia.
-* **Aplicación en el proyecto:** Utilizado como referencia para el **dashboard administrativo** del centro optométrico.
-* **Beneficio:** Facilita la creación de widgets de estadísticas y gráficas de evolución visual (longitudinal), permitiendo que el especialista tome decisiones rápidas basadas en datos.
-
-<img width="188" height="318" alt="image" src="https://github.com/user-attachments/assets/46878048-733b-410c-bf30-4894a8717405" />
-
+💡 *Debe representarse visualmente.*
 
 ---
 
-###  Fluent Design System 
-**Enfoque:** Consistencia y claridad en entornos de escritorio.
-* **Aplicación en el proyecto:** Ayuda a estructurar interfaces nativas y consistentes que se sientan familiares para los médicos que utilizan Windows.
-* **Beneficio:** Aporta una capa de **profesionalismo y limpieza** visual, eliminando distracciones y centrando la atención en el diagnóstico visual.
+## 🧩 5. TARJETAS (CARDS)
 
-esta se puede visualizar durante todo el diseño del prototipo
+### 📌 Tarjeta grande
+
+**Elementos:**
+- Imagen  
+- Título  
+- Descripción  
+
 ---
 
+### 📌 Tarjeta pequeña
 
+**Elementos:**
+- Imagen pequeña  
+- Texto corto  
+
+💡 *Uso: productos, posts, noticias, etc.*
+
+---
+
+## 🔘 6. BOTONES Y CONTROLES
+
+### Botones
+
+- **Botón primario (activo)**  
+- **Botón primario (inactivo)**  
+- **Botón secundario (activo)**  
+- **Botón secundario (inactivo)**  
+- **Botón flotante (FAB)**  
+
+---
+
+### Controles
+
+- Slider  
+- Filtros  
+- Switch (on/off)  
+
+---
+
+## 📝 7. FORMULARIOS
+
+**Elementos:**
+- Input de texto  
+- Input de contraseña  
+- Checkbox  
+- Radio button  
+- Slider  
+- Labels (ej: “Correo”, “Contraseña”)  
+
+### Estados
+
+- Normal  
+- Seleccionado / Activo  
+- Error  
+
+---
+
+## 🖼️ 8. ILUSTRACIONES (Opcional)
+
+- Iconos grandes  
+- Ilustraciones tipo onboarding  
+
+---
+
+## 🎯 ESTRUCTURA FINAL
+
+El UI Kit debe presentarse en una sola pantalla organizada:
