@@ -43,7 +43,7 @@
 - **Secundario:** `#C0FBFF`  
 - **Acento:** `#00747C`  
 
-### Extras (UI claro)
+### Extras
 
 - **Background:** `#F9FAFB`  
 - **Surface (cards):** `#FFFFFF`  
