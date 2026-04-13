@@ -1,4 +1,5 @@
 # MOODBOARD
+---
 <img width="1333" height="2000" alt="Clínico Preciso Tecnológico Minimalista Profesional Claro (2)" src="https://github.com/user-attachments/assets/4353a4e2-edb7-4148-bcf9-1f87d6a5b3e0" />
 
 # UI KIT
@@ -152,3 +153,7 @@
 - **Normal:** borde gris claro  
 - **Activo:** borde `#00747C`  
 - **Error:** borde rojo (`#E53935`)  
+
+# Prototipo con animaciones
+---
+https://monkey-rabid-65796569.figma.site
