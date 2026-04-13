@@ -1,6 +1,7 @@
-# UI KIT
+# MOODBOARD
+<img width="1333" height="2000" alt="Clínico Preciso Tecnológico Minimalista Profesional Claro (2)" src="https://github.com/user-attachments/assets/4353a4e2-edb7-4148-bcf9-1f87d6a5b3e0" />
 
-Este documento define los elementos visuales del sistema.
+# UI KIT
 ---
 
 ## 1. TIPOGRAFÍA
