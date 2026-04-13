@@ -5,31 +5,32 @@ Este documento define los elementos visuales del sistema.
 
 ## 1. TIPOGRAFÍA
 
-- Fuente principal: `________`
-- Fuente secundaria: `________`
+- Fuente principal: `News Gothic BT`
+- Fuente secundaria: `Roboto`
 
 ### Jerarquía tipográfica
 
-- **Título 1 (H1):** `__px` – ______  
-- **Título 2 (H2):** `__px` – ______  
-- **Subtítulo:** `__px` – ______  
-- **Párrafo grande:** `__px` – ______  
-- **Párrafo pequeño:** `__px` – ______  
-- **Cita:** `__px` – ______  
-- **Botón:** `__px` – ______  
+- **Título 1 (H1):** `32px` – Bold  
+- **Título 2 (H2):** `24px` – SemiBold  
+- **Subtítulo:** `18px` – Medium  
+- **Párrafo grande:** `16px` – Regular  
+- **Párrafo pequeño:** `14px` – Regular  
+- **Cita:** `14px` – Italic  
+- **Botón:** `16px` – Medium  
 
 ---
 
 ## 2. ICONOS
 
-**Estilo de iconos:** `________` (Material / Outline / Filled / etc.)
+**Estilo de iconos:** `Filled (tipo dashboard moderno / Material)`
 
-- **Icono activo:** color `________`  
-- **Icono inactivo:** color `________`  
+- **Icono activo:** color `#9FEAE4`  
+- **Icono inactivo:** color `#6B7280`  
 
 **Ejemplos:**
-- Home activo  
-- Home inactivo  
+- Calendario activo (verde/azulado)
+- Usuario activo  
+- Icono inactivo en gris  
 
 ---
 
@@ -37,9 +38,15 @@ Este documento define los elementos visuales del sistema.
 
 ### Paleta principal
 
-- **Primario:** `#______`  
-- **Secundario:** `#______`  
-- **Acento:** `#______`  
+- **Primario:** `#9FEAE4`  (turquesa claro del UI)
+- **Secundario:** `#1F2937` (fondo oscuro de tarjetas)
+- **Acento:** `#00747C` (títulos y énfasis)
+
+### Extras (importante por tu UI oscuro)
+
+- **Background:** `#111827` (fondo general)
+- **Texto principal:** `#FFFFFF`
+- **Texto secundario:** `#9CA3AF`
 
 ---
 
@@ -48,37 +55,43 @@ Este documento define los elementos visuales del sistema.
 ### Barra superior (Header)
 
 **Elementos:**
-- Título  
-- Icono (menú / perfil / acciones)
+- Logo + nombre: *OptoHelp*  
+- Icono de usuario / cerrar sesión  
+- Fondo oscuro (`#111827`)  
 
 ---
 
 ### Barra inferior (Bottom Navigation)
 
+*(Opcional en tu caso, porque es dashboard desktop)*
+
 **Secciones:**
 - Inicio  
-- Buscar  
-- Favoritos  
-- Perfil  
+- Pacientes  
+- Citas  
+- Reportes  
 
 ---
 
 ## 5. TARJETAS 
 
-### Tarjeta grande
+### Tarjeta grande (Acciones principales)
 
 **Elementos:**
-- Imagen  
-- Título  
-- Descripción  
+- Icono (calendario / usuario)  
+- Título (ej: "Citas Programadas")  
+- Fondo oscuro (`#1F2937`)  
+- Hover: leve cambio de color  
 
 ---
 
-### 📌 Tarjeta pequeña
+### Tarjeta pequeña (Estadísticas)
 
 **Elementos:**
-- Imagen pequeña  
-- Texto corto  
+- Texto (ej: "Citas hoy")  
+- Número grande (ej: 8, 142, 23)  
+- Color destacado: `#9FEAE4`  
+- Fondo oscuro  
 
 ---
 
@@ -87,18 +100,31 @@ Este documento define los elementos visuales del sistema.
 ### Botones
 
 - **Botón primario (activo)**  
+  Fondo: `#9FEAE4`  
+  Texto: negro  
+
 - **Botón primario (inactivo)**  
+  Fondo: gris (`#374151`)  
+  Texto: gris claro  
+
 - **Botón secundario (activo)**  
+  Fondo: transparente  
+  Borde: `#9FEAE4`  
+
 - **Botón secundario (inactivo)**  
+  Borde: gris  
+
 - **Botón flotante (FAB)**  
+  Fondo: `#00747C`  
+  Icono: blanco  
 
 ---
 
 ### Controles
 
-- Slider  
-- Filtros  
-- Switch (on/off)  
+- Slider (para rangos de datos)  
+- Filtros (por paciente, fecha, etc.)  
+- Switch (activar/desactivar seguimiento)  
 
 ---
 
@@ -109,12 +135,17 @@ Este documento define los elementos visuales del sistema.
 - Input de contraseña  
 - Checkbox  
 - Radio button  
-- Slider  
-- Labels (ej: “Correo”, “Contraseña”)  
+- Labels (ej: “Documento”, “Contraseña”)  
+
+### Estilo
+
+- Fondo: `#1F2937`  
+- Texto: blanco  
+- Borde: gris  
 
 ### Estados
 
-- Normal  
-- Seleccionado / Activo  
-- Error  
+- **Normal:** borde gris  
+- **Activo:** borde `#9FEAE4`  
+- **Error:** borde rojo (`#E53935`)  
 
