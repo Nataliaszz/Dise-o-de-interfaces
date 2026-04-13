@@ -23,15 +23,15 @@
 
 ## 2. ICONOS
 
-**Estilo de iconos:** `Filled (tipo dashboard moderno / Material)`
+**Estilo de iconos:** `Outline + Filled`
 
-- **Icono activo:** color `#9FEAE4`  
-- **Icono inactivo:** color `#6B7280`  
+- **Icono activo:** color `#00747C`  
+- **Icono inactivo:** color `#9CA3AF`  
 
 **Ejemplos:**
-- Calendario
+- Calendario activo   
 - Usuario activo  
-- Icono inactivo  
+- Icono inactivo en gris  
 
 ---
 
@@ -40,14 +40,16 @@
 ### Paleta principal
 
 - **Primario:** `#9FEAE4`  
-- **Secundario:** `#1F2937` 
-- **Acento:** `#00747C`
+- **Secundario:** `#C0FBFF`  
+- **Acento:** `#00747C`  
 
-### Extras (importante por tu UI oscuro)
+### Extras (UI claro)
 
-- **Background:** `#111827` 
-- **Texto principal:** `#FFFFFF`
-- **Texto secundario:** `#9CA3AF`
+- **Background:** `#F9FAFB`  
+- **Surface (cards):** `#FFFFFF`  
+- **Texto principal:** `#111827`  
+- **Texto secundario:** `#6B7280`  
+- **Bordes:** `#E5E7EB`  
 
 ---
 
@@ -58,7 +60,8 @@
 **Elementos:**
 - Logo + nombre: *OptoHelp*  
 - Icono de usuario / cerrar sesión  
-- Fondo oscuro (`#111827`)  
+- Fondo blanco (`#FFFFFF`)  
+- Sombra suave inferior  
 
 ---
 
@@ -74,22 +77,26 @@
 
 ## 5. TARJETAS 
 
+### Tarjeta grande (Acciones principales)
 
 **Elementos:**
 - Icono (calendario / usuario)  
-- Título 
-- Fondo oscuro (`#1F2937`)  
-- Hover: leve cambio de color  
+- Título  
+- Fondo: `#FFFFFF`  
+- Borde: `#E5E7EB`  
+- Sombra suave  
+- Hover: leve elevación o cambio de sombra  
 
 ---
 
 ### Tarjeta pequeña (Estadísticas)
 
 **Elementos:**
-- Texto 
+- Texto (ej: “Citas hoy”)  
 - Número grande  
-- Color destacado: `#9FEAE4`  
-- Fondo oscuro  
+- Color del número: `#00747C`  
+- Fondo: `#FFFFFF`  
+- Borde suave  
 
 ---
 
@@ -98,19 +105,19 @@
 ### Botones
 
 - **Botón primario (activo)**  
-  Fondo: `#9FEAE4`  
-  Texto: negro  
+  Fondo: `#00747C`  
+  Texto: blanco  
 
 - **Botón primario (inactivo)**  
-  Fondo: gris (`#374151`)  
-  Texto: gris claro  
+  Fondo: `#E5E7EB`  
+  Texto: `#9CA3AF`  
 
 - **Botón secundario (activo)**  
-  Fondo: transparente  
-  Borde: `#9FEAE4`  
+  Fondo: `#9FEAE4`  
+  Texto: `#00747C`  
 
 - **Botón secundario (inactivo)**  
-  Borde: gris  
+  Fondo: gris claro  
 
 - **Botón flotante (FAB)**  
   Fondo: `#00747C`  
@@ -120,9 +127,9 @@
 
 ### Controles
 
-- Slider (para rangos de datos)  
-- Filtros (por paciente, fecha o demás)  
-- Switch (activar/desactivar seguimiento)  
+- Slider (rangos de datos)  
+- Filtros (por paciente, fecha, etc.)  
+- Switch (ON: `#00747C`, OFF: gris)  
 
 ---
 
@@ -132,17 +139,16 @@
 - Input de texto  
 - Input de contraseña  
 - Checkbox  
-- Ingreso de datos
+- Ingreso de datos  
 
 ### Estilo
 
-- Fondo: `#1F2937`  
-- Texto: blanco  
-- Borde: gris  
+- Fondo: `#FFFFFF`  
+- Texto: `#111827`  
+- Borde: `#E5E7EB`  
 
 ### Estados
 
-- **Normal:** borde gris  
-- **Activo:** borde `#9FEAE4`  
+- **Normal:** borde gris claro  
+- **Activo:** borde `#00747C`  
 - **Error:** borde rojo (`#E53935`)  
-
