@@ -28,9 +28,9 @@ Este documento define los elementos visuales del sistema.
 - **Icono inactivo:** color `#6B7280`  
 
 **Ejemplos:**
-- Calendario activo (verde/azulado)
+- Calendario
 - Usuario activo  
-- Icono inactivo en gris  
+- Icono inactivo  
 
 ---
 
@@ -38,13 +38,13 @@ Este documento define los elementos visuales del sistema.
 
 ### Paleta principal
 
-- **Primario:** `#9FEAE4`  (turquesa claro del UI)
-- **Secundario:** `#1F2937` (fondo oscuro de tarjetas)
-- **Acento:** `#00747C` (títulos y énfasis)
+- **Primario:** `#9FEAE4`  
+- **Secundario:** `#1F2937` 
+- **Acento:** `#00747C`
 
 ### Extras (importante por tu UI oscuro)
 
-- **Background:** `#111827` (fondo general)
+- **Background:** `#111827` 
 - **Texto principal:** `#FFFFFF`
 - **Texto secundario:** `#9CA3AF`
 
@@ -63,8 +63,6 @@ Este documento define los elementos visuales del sistema.
 
 ### Barra inferior (Bottom Navigation)
 
-*(Opcional en tu caso, porque es dashboard desktop)*
-
 **Secciones:**
 - Inicio  
 - Pacientes  
@@ -75,11 +73,10 @@ Este documento define los elementos visuales del sistema.
 
 ## 5. TARJETAS 
 
-### Tarjeta grande (Acciones principales)
 
 **Elementos:**
 - Icono (calendario / usuario)  
-- Título (ej: "Citas Programadas")  
+- Título 
 - Fondo oscuro (`#1F2937`)  
 - Hover: leve cambio de color  
 
@@ -88,8 +85,8 @@ Este documento define los elementos visuales del sistema.
 ### Tarjeta pequeña (Estadísticas)
 
 **Elementos:**
-- Texto (ej: "Citas hoy")  
-- Número grande (ej: 8, 142, 23)  
+- Texto 
+- Número grande  
 - Color destacado: `#9FEAE4`  
 - Fondo oscuro  
 
@@ -123,7 +120,7 @@ Este documento define los elementos visuales del sistema.
 ### Controles
 
 - Slider (para rangos de datos)  
-- Filtros (por paciente, fecha, etc.)  
+- Filtros (por paciente, fecha o demás)  
 - Switch (activar/desactivar seguimiento)  
 
 ---
@@ -134,8 +131,7 @@ Este documento define los elementos visuales del sistema.
 - Input de texto  
 - Input de contraseña  
 - Checkbox  
-- Radio button  
-- Labels (ej: “Documento”, “Contraseña”)  
+- Ingreso de datos
 
 ### Estilo
 
