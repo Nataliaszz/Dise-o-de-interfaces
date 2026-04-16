@@ -9,8 +9,8 @@
 | `primary-color` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Acciones principales y marca. |
 | `secondary-color` | `#C0FBFF` | ![#C0FBFF](https://www.colorhexa.com/c0fbff.png) | Fondos suaves y estados hover. |
 | `title-color` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Títulos de alto contraste. |
-| `background-color`| `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF?text=+) | Superficie base de la interfaz. |
-| `text-color` | `#000000` | ![#000000](https://via.placeholder.com/15/000000?text=+) | Cuerpo de texto y lectura. |
+| `background-color`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
+| `text-color` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Cuerpo de texto y lectura. |
 
 ---
 
