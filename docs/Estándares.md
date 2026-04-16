@@ -6,11 +6,11 @@
 
 | Color | Hex | Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
-| `primary-color` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | ... |
-| `secondary-color` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Fondos suaves y estados hover. |
-| `title-color` | `#C0FBFF` | ![#C0FBFF](https://www.colorhexa.com/c0fbff.png) | Títulos de alto contraste. |
-| `background-color`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
-| `text-color` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Cuerpo de texto y lectura. |
+| `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Botones  |
+| `Color secundario` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Fondos suaves y estados hover. |
+| `Color de titulos` | `#C0FBFF` | ![#C0FBFF](https://www.colorhexa.com/c0fbff.png) | Títulos de alto contraste. |
+| `Color de fondo`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
+| `Color de texto` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Cuerpo de texto y lectura. |
 
 ---
 
