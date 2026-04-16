@@ -8,9 +8,12 @@
 | :--- | :--- | :--- | :--- |
 | `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Color de boton de inicio y visualización de gráficas, texto al pasar el mouse por las tarjetas interactivas, color de iconos, números de estadísticas. |
 | `Color secundario` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Fondos de iconos, contorno de tarjetas al intectuar, fondo de botón de historial al interactuar y razón de las citas programadas. |
-| `Color de titulos` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Títulos de la aplicación |
-| `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
-| `Color de texto` | `#6b7280` | ![#6b7280](https://www.colorhexa.com/6b7280.png) | Cuerpo de texto y lectura. |
+| `Color de texto 1` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Títulos de la aplicación y nombres |
+| `Color de texto 2` | `#6b7280` | ![#6b7280](https://www.colorhexa.com/6b7280.png) | Información adicional |
+| `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Fondo de la aplicación |
+| `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Fondo de la aplicación |
+| `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Fondo de la aplicación |
+
 
 ---
 
