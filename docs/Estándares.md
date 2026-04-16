@@ -4,11 +4,11 @@
 
 ## Paleta de Colores
 
-| Token Name | Hex | Color Preview | Uso Principal |
+| Color | Hex | Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
-| `primary-color` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Acciones principales y marca. |
+| `primary-color` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Acciones principales y marca. |
 | `secondary-color` | `#C0FBFF` | ![#C0FBFF](https://www.colorhexa.com/c0fbff.png) | Fondos suaves y estados hover. |
-| `title-color` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Títulos de alto contraste. |
+| `title-color` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Títulos de alto contraste. |
 | `background-color`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
 | `text-color` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Cuerpo de texto y lectura. |
 
@@ -33,9 +33,6 @@ Warning Ejemplo
 | `font-size-large` | **Roboto** | `24px` | Subtítulos y resaltados. |
 | `font-size-medium`| **Roboto** | `18px` | Texto de lectura (Body). |
 | `size-small` | **Roboto** | `14px` | Notas al pie y captions. |
-<img width="186" height="310" alt="image" src="https://github.com/user-attachments/assets/6b09ebf2-c2d1-4f96-a9f5-3bcf116e01e5" />
-
-aqui podemos visualizar todas las fuentes
 
 ---
 
