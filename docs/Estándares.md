@@ -6,7 +6,7 @@
 
 | Color | Hex | Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
-| `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Botones  |
+| `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Botón de inicio de sesión y análisis, texto al pasar el mouse por las tarjetas interactivas, color de iconos, números de estadísticas, contorno y texto del botón de historial.  |
 | `Color secundario` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Fondos suaves y estados hover. |
 | `Color de titulos` | `#C0FBFF` | ![#C0FBFF](https://www.colorhexa.com/c0fbff.png) | Títulos de alto contraste. |
 | `Color de fondo`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
