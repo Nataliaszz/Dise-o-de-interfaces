@@ -6,7 +6,7 @@
 
 | Token Name | Hex | Color Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
-| `primary-color` | `#9FEAE4` | ![#9FEAE4](https://via.placeholder.com/15/9FEAE4?text=+) | Acciones principales y marca. |
+| `primary-color` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Acciones principales y marca. |
 | `secondary-color` | `#C0FBFF` | ![#C0FBFF](https://via.placeholder.com/15/C0FBFF?text=+) | Fondos suaves y estados hover. |
 | `title-color` | `#00747C` | ![#00747C](https://via.placeholder.com/15/00747C?text=+) | Títulos de alto contraste. |
 | `background-color`| `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF?text=+) | Superficie base de la interfaz. |
@@ -19,7 +19,6 @@
 *  **Success:** `#4CAF50` | Predicciones positivas o procesos completados.
 * **Warning:** `#448FB4` | Alertas informativas o preventivas.
 *  **Error:** `#E53935` | Notificaciones de riesgo o errores críticos.
-<img width="182" height="315" alt="image" src="https://github.com/user-attachments/assets/0fe99042-176f-4ec9-9ae7-dfb039451683" />
 
 Warning Ejemplo
 
