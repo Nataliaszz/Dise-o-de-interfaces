@@ -6,11 +6,11 @@
 
 | Color | Hex | Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
-| `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Color de botones, texto al pasar el mouse por las tarjetas interactivas, color de iconos, números de estadísticas. |
+| `Color primario` | `#00747C` | ![#00747C](https://www.colorhexa.com/00747c.png) | Color de boton de inicio y visualización de gráficas, texto al pasar el mouse por las tarjetas interactivas, color de iconos, números de estadísticas. |
 | `Color secundario` | `#9FEAE4` | ![#9FEAE4](https://www.colorhexa.com/9feae4.png) | Fondos de iconos, contorno de tarjetas al intectuar, fondo de botón de historial al interactuar y razón de las citas programadas. |
-| `Color de titulos` | `#000000` | ![#C0FBFF](https://www.colorhexa.com/000000.png) | Títulos de alto contraste. |
-| `Color de fondo`| `#F9FAFB` | ![#FFFFFF](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
-| `Color de texto` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Cuerpo de texto y lectura. |
+| `Color de titulos` | `#000000` | ![#000000](https://www.colorhexa.com/000000.png) | Títulos de la aplicación |
+| `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Superficie base de la interfaz. |
+| `Color de texto` | `#2596be` | ![#596be](https://www.colorhexa.com/2596be.png) | Cuerpo de texto y lectura. |
 
 ---
 
