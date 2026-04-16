@@ -16,9 +16,7 @@
 - **Título 2 (H2):** `24px` – SemiBold  
 - **Subtítulo:** `18px` – Medium  
 - **Párrafo grande:** `16px` – Regular  
-- **Párrafo pequeño:** `14px` – Regular  
-- **Cita:** `14px` – Italic  
-- **Botón:** `16px` – Medium  
+- **Párrafo pequeño:** `14px` – Regular
 
 ---
 
