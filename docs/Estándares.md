@@ -12,9 +12,6 @@
 | `background-color`| `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF?text=+) | Superficie base de la interfaz. |
 | `text-color` | `#000000` | ![#000000](https://via.placeholder.com/15/000000?text=+) | Cuerpo de texto y lectura. |
 
-<img width="183" height="318" alt="image" src="https://github.com/user-attachments/assets/e875a78a-7dab-45b4-bf68-dccf48fd4612" />
-<img width="185" height="321" alt="image" src="https://github.com/user-attachments/assets/2dc6167c-40da-4c7d-848b-c2a41541efda" />
-
 ---
 
 
