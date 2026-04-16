@@ -12,7 +12,9 @@
 | `Color de texto 2` | `#6b7280` | ![#6b7280](https://www.colorhexa.com/6b7280.png) | Información adicional |
 | `Color de error y salida 1`| `##e53935` | ![##e53935](https://www.colorhexa.com/e53935.png) | Texto, botones (salida) y contornos de mensajes de error |
 | `Color de error y salida 2`| `#fdf5f4` | ![#fdf5f4](https://www.colorhexa.com/fdf5f4.png) | Fondos de mensajes de error y botones de salida  |
+| `Color de tarjetas`| `#FFFFFF` | ![#F9FAFB](https://www.colorhexa.com/ffffff.png) | Color de tarjetas y barra superior |
 | `Color de fondo`| `#F9FAFB` | ![#F9FAFB](https://www.colorhexa.com/f9fafb.png) | Fondo de la aplicación |
+
 
 
 ---
