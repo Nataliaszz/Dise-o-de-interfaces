@@ -2,7 +2,7 @@
 ---
 <img width="1333" height="2000" alt="Clínico Preciso Tecnológico Minimalista Profesional Claro (2)" src="https://github.com/user-attachments/assets/4353a4e2-edb7-4148-bcf9-1f87d6a5b3e0" />
 
-## Paleta de Colores (Color Tokens)
+## Paleta de Colores
 
 | Token Name | Hex | Color Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
