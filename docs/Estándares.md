@@ -21,7 +21,7 @@
 ##  Tipografía y Escala 
 
 | Tipo de texto | Fuente | Tamaño |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | `Títulos` | **FF Sero Medium** | `32px` |
 | `Texto` | **FF Sero Medium** | `24px` |
 
