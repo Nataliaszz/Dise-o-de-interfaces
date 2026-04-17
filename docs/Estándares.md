@@ -2,6 +2,9 @@
 ---
 <img width="1333" height="2000" alt="Clínico Preciso Tecnológico Minimalista Profesional Claro (2)" src="https://github.com/user-attachments/assets/4353a4e2-edb7-4148-bcf9-1f87d6a5b3e0" />
 
+# UI KIT
+---
+
 ## Paleta de Colores
 
 | Color | Hex | Preview | Uso Principal |
@@ -15,6 +18,16 @@
 
 ---
 
+##  Tipografía y Escala 
+
+| Tipo de texto | Fuente | Tamaño |
+| :--- | :--- | :--- | :--- |
+| `Títulos` | **FF Sero Medium** | `32px` |
+| `Texto` | **FF Sero Medium** | `24px` |
+
+
+---
+
 ###  Estados del Sistema
 
 | Color | Hex | Preview | Uso Principal |
@@ -22,17 +35,6 @@
 | `Color de fondo`| `#4CAF50` | ![#F9FAFB](https://www.colorhexa.com/4CAF50.png) | Predicciones positivas o procesos completados (Mensajes en el seguimiento) |
 | `Error y salida 1`| `#e53935` | ![##e53935](https://www.colorhexa.com/e53935.png) | Notificaciones de riesgo o errores críticos (texto, botones de salida y contornos de mensajes de error) |
 | `Error y salida 2`| `#fdf5f4` | ![#fdf5f4](https://www.colorhexa.com/fdf5f4.png) | Fondos de mensajes de error y botones de salida. |
-
----
-
-##  Tipografía y Escala (Typography Tokens)
-
-| Token | Fuente | Tamaño | Aplicación |
-| :--- | :--- | :--- | :--- |
-| `font-size-title` | **Lato** | `32px` | Títulos de página y secciones. |
-| `font-size-large` | **Roboto** | `24px` | Subtítulos y resaltados. |
-| `font-size-medium`| **Roboto** | `18px` | Texto de lectura (Body). |
-| `size-small` | **Roboto** | `14px` | Notas al pie y captions. |
 
 ---
 
