@@ -25,6 +25,14 @@
 | `Títulos` | **FF Sero Medium** | `32px` | Bold |
 | `Texto` | **FF Sero Medium** | `24px` | Regular |
 
+---
+
+## ICONOS
+
+**Estilo de iconos:** `Outline + Filled`
+
+ **Color de iconos:** #00747C ●
+
 
 ---
 
