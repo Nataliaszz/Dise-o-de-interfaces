@@ -31,18 +31,60 @@
 
 **Estilo de iconos:** `Outline + Filled`
 
- **Color de iconos:** #00747C ●
+ **Color de iconos:** #00747C 
+ **Fondo de iconos:** #9FEAE4
+
+---
+
+## BARRAS 
+
+### Header
+
+**Elementos:**
+- Logo + nombre: *OptoHelp*  o pestaña actual
+- Icono de usuario / cerrar sesión  
+- Fondo blanco (`#FFFFFF`)  
+- Sombra suave inferior  
+
+---
+
+## TARJETAS 
+
+**Elementos:**
+- Icono  
+- Título  
+- Fondo: `#FFFFFF`  
+- Hover: Animación al interactuar
+
+---
+
+## 6. BOTONES Y CONTROLES
+
+### Botones
+
+| Boton | Hex | Uso Principal |
+| :--- | :--- | :--- |
+| `Boton primario` | `Fondo de color primario con texto blanco` | Acciones principales como visualización de informes o inicio de sesión |
+| `Boton secundario` | `Fondo blanco, contorno de color secundario y texto gris` | Acciones dentro de tarjetas de vista |
 
 
 ---
 
+### Controles
+ 
+- Filtros (por paciente, fecha, etc.)    
+
+---
+
+
+---
 ###  Estados del Sistema
 
 | Color | Hex | Preview | Uso Principal |
 | :--- | :--- | :--- | :--- |
 | `Color de fondo`| `#4CAF50` | ![#F9FAFB](https://www.colorhexa.com/4CAF50.png) | Predicciones positivas o procesos completados (Mensajes en el seguimiento) |
-| `Error y salida 1`| `#e53935` | ![##e53935](https://www.colorhexa.com/e53935.png) | Notificaciones de riesgo o errores críticos (texto, botones de salida y contornos de mensajes de error) |
-| `Error y salida 2`| `#fdf5f4` | ![#fdf5f4](https://www.colorhexa.com/fdf5f4.png) | Fondos de mensajes de error y botones de salida. |
+| `Error y cerrar sesión 1`| `#e53935` | ![##e53935](https://www.colorhexa.com/e53935.png) | Notificaciones de riesgo o errores críticos (texto, botones de salida y contornos de mensajes de error) |
+| `Error y cerrar sesión 2`| `#fdf5f4` | ![#fdf5f4](https://www.colorhexa.com/fdf5f4.png) | Fondos de mensajes de error y botones de salida. |
 
 ---
 
