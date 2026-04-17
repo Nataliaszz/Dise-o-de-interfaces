@@ -58,14 +58,14 @@
 
 ---
 
-## 6. BOTONES Y CONTROLES
+## BOTONES Y CONTROLES
 
 ### Botones
 
 | Boton | Hex | Uso Principal |
 | :--- | :--- | :--- |
-| `Boton primario` | `Fondo de color primario con texto blanco` | Acciones principales como visualización de informes o inicio de sesión |
-| `Boton secundario` | `Fondo blanco, contorno de color secundario y texto gris` | Acciones dentro de tarjetas de vista |
+| `Boton primario` | `Fondo de color primario con texto blanco (#00747C)` | Acciones principales como visualización de informes o inicio de sesión |
+| `Boton secundario` | `Fondo blanco, contorno de color secundario y texto gris (#9FEAE4)` | Acciones dentro de tarjetas de vista |
 
 
 ---
@@ -75,6 +75,20 @@
 - Filtros (por paciente, fecha, etc.)    
 
 ---
+
+## FORMULARIOS
+
+**Elementos:**
+- Input de texto  
+- Input de contraseña  
+- Filtrado de usuarios
+
+----
+- Fondo: `#FFFFFF` - Blanco
+- Texto antes de escribir: `#6b7280` - Ejemplos o mensajes
+- Texto ingresado: `#000000` - Negro
+- Borde: `#6b7280`
+- Borde (Hover) - `#9FEAE4` - Color de borde al interactuar
 
 
 ---
