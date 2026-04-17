@@ -20,10 +20,10 @@
 
 ##  Tipografía y Escala 
 
-| Tipo de texto | Fuente | Tamaño |
-| :--- | :--- | :--- |
-| `Títulos` | **FF Sero Medium** | `32px` |
-| `Texto` | **FF Sero Medium** | `24px` |
+| Tipo de texto | Fuente | Tamaño | Extra |
+| :--- | :--- | :--- | :--- |
+| `Títulos` | **FF Sero Medium** | `32px` | Bold |
+| `Texto` | **FF Sero Medium** | `24px` | Regular |
 
 
 ---
